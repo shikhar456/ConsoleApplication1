@@ -5,7 +5,7 @@ packages/
 
 *.user
 
-*/obj/*
+obj/*
 */bin/*
 */*/obj/*
 */*/bin/*
