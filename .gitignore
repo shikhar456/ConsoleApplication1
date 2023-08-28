@@ -1,0 +1,15 @@
+packages/
+*.VC.db
+*.VC.opendb
+.vs/
+
+*.user
+
+*/obj/*
+*/bin/*
+*/*/obj/*
+*/*/bin/*
+*/*/*/obj/*
+*/*/*/bin/*
+
+paket-files
